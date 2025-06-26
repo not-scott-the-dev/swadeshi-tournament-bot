@@ -1,0 +1,180 @@
+{
+    "622846": {
+        "tournament_name": "vht 2",
+        "entry_fee": 1,
+        "details": "very good",
+        "winner": null,
+        "msg": 1387494284059607171,
+        "channel_id": 1238840835722706965,
+        "info_channel_id": 1387494278552358952,
+        "spreadsheet_id": "1CDWk0XXz-DWBJ5VIaYknC5NMNYHjIffz7EpyBE55r8Q",
+        "tournament_time": 1752213600,
+        "status": "running",
+        "registerd_teams": 0,
+        "teams": {}
+    },
+    "822886": {
+        "tournament_name": "VALORANT HARYANA",
+        "entry_fee": 1,
+        "details": "very good",
+        "winner": null,
+        "msg": 1387657856123146322,
+        "channel_id": 1238840835722706965,
+        "info_channel_id": 1387657851358412851,
+        "spreadsheet_id": "17DkOM9etzM-ucm7jlqu8NLZaL2iWUeEVsE8JE5VhYws",
+        "tournament_time": 1752213600,
+        "status": "running",
+        "registerd_teams": 2,
+        "teams": {
+            "8eba841e05ab4d8eada935b985a846ce": {
+                "team_name": "Team Roger",
+                "players": [
+                    "Roger Aalok ",
+                    " Rozer shubham"
+                ],
+                "contact_number": "9542879000",
+                "registration": "Approved",
+                "verified": false,
+                "otp": null,
+                "otp_expiry": null,
+                "team_id": 476421475478405130
+            }
+        }
+    },
+    "345213": {
+        "tournament_name": "VALORANT HARYANA",
+        "entry_fee": 1,
+        "details": "very good",
+        "winner": null,
+        "msg": 1387661162510028873,
+        "channel_id": 1238840835722706965,
+        "info_channel_id": 1387661158357663764,
+        "spreadsheet_id": "1irbC49ZNh0KkDAQMZtu1CgdLDBHWyjcg95DLOFq2BK0",
+        "tournament_time": 1752213600,
+        "status": "running",
+        "registerd_teams": 2,
+        "teams": {
+            "3221606cfc184ea38592c511a223c2c2": {
+                "team_name": "Team naga",
+                "players": [
+                    "naga 1 naga 2"
+                ],
+                "contact_number": "+91 987632729",
+                "registration": "Approved",
+                "verified": false,
+                "otp": null,
+                "otp_expiry": null,
+                "team_id": 476421475478405130
+            }
+        }
+    },
+    "520065": {
+        "tournament_name": "VALORANT HARYANA",
+        "entry_fee": 1,
+        "details": "very good",
+        "winner": null,
+        "msg": 1387663495373389955,
+        "channel_id": 1238840835722706965,
+        "info_channel_id": 1387663490352808089,
+        "spreadsheet_id": "1LFvPwCFPqMEzjRDkEvY2GsUbZ0ftICGjuAj3px5SpgA",
+        "tournament_time": 1752213600,
+        "status": "running",
+        "registerd_teams": 1,
+        "teams": {
+            "256ae0c059544b1da02b2a2ec3b03da9": {
+                "team_name": "Team Alpha",
+                "players": [
+                    "alpha aalok",
+                    " Aalpha subham"
+                ],
+                "contact_number": "+91 9756637953",
+                "registration": "Approved",
+                "verified": false,
+                "otp": null,
+                "otp_expiry": null,
+                "team_id": 476421475478405130
+            },
+            "440ed6ae0a4d45959456c77a434f38e3": {
+                "team_name": "Dynamik",
+                "players": [
+                    "4"
+                ],
+                "contact_number": "7082551661",
+                "registration": "Paid",
+                "verified": false,
+                "otp": null,
+                "otp_expiry": null,
+                "team_id": 664450467774070803
+            }
+        }
+    },
+    "653376": {
+        "tournament_name": "VHT FINAl",
+        "entry_fee": 10,
+        "details": "very good",
+        "winner": null,
+        "msg": 1387677765540778097,
+        "channel_id": 1238840835722706965,
+        "info_channel_id": 1387677760989691976,
+        "spreadsheet_id": "1r6iM3JotFir67q_RPZ4yC5do0CRIKlEAF9RsAYFEdB4",
+        "tournament_time": 1752213600,
+        "status": "running",
+        "registerd_teams": 0,
+        "teams": {}
+    },
+    "854191": {
+        "tournament_name": "hahahah",
+        "entry_fee": 10,
+        "details": "hahah",
+        "winner": null,
+        "msg": 1387683824712028200,
+        "channel_id": 1238840835722706965,
+        "info_channel_id": 1387683819443851337,
+        "spreadsheet_id": "1rSMfKIq9CME0ML9OkPFBUrSSRCq_PReRrmCqk0FjIxI",
+        "tournament_time": 1752211800,
+        "status": "running",
+        "registerd_teams": 0,
+        "teams": {}
+    },
+    "517048": {
+        "tournament_name": "teri ma rand",
+        "entry_fee": 19,
+        "details": "easy",
+        "winner": null,
+        "msg": 1387689040098361354,
+        "channel_id": 1238840835722706965,
+        "info_channel_id": 1387689036092538911,
+        "spreadsheet_id": "12A71s7rIw-HgbnMfSRTPOLmAg9aAuogBqtIEoVeFI4k",
+        "tournament_time": 1752211800,
+        "status": "running",
+        "registerd_teams": 0,
+        "teams": {}
+    },
+    "789202": {
+        "tournament_name": "maa ki chu",
+        "entry_fee": 5,
+        "details": "easy",
+        "winner": null,
+        "msg": 1387695931092369530,
+        "channel_id": 1238840835722706965,
+        "info_channel_id": 1387695927015506002,
+        "spreadsheet_id": "18nXzSbIPosOS5-AbtNgF1KyKJTdjMfjiozzZCqz_itU",
+        "tournament_time": 1752211800,
+        "status": "running",
+        "registerd_teams": 1,
+        "teams": {
+            "5a896856675b405c860bd6e97a5f21e7": {
+                "team_name": "Onfire",
+                "players": [
+                    "Onfire"
+                ],
+                "contact_number": "6092711",
+                "registration": "Approved",
+                "verified": false,
+                "otp": null,
+                "otp_expiry": null,
+                "team_id": 664450467774070803
+            }
+        }
+    }
+}
