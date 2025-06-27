@@ -8,6 +8,7 @@ import random
 import time
 import datetime
 import uuid
+from dotenv import load_dotenv
 from PIL import Image, ImageDraw, ImageFont
 import qrcode
 from reportlab.lib.pagesizes import A4
@@ -26,8 +27,8 @@ monthly_leaderboard_path = "monthly_lb.json"
 
 with open("config.json", "r") as config_file:
     config = json.load(config_file)
-
-DISCORD_TOKEN = config["discord_token"]
+load_dotenv()
+DISCORD_TOKEN = os.getenv("DISCORD_TOKEN")
 RAZORPAY_KEY_ID = config["razorpay_key_id"]
 RAZORPAY_KEY_SECRET = config["razorpay_secret"]
 SERVICE_ACCOUNT_FILE = config["google_service_account_file"]
