@@ -1,11 +1,1 @@
-{
-    "discord_token": "MTMwMjU1NjY2MDAxNDkwNzQ2NA.Gw4spJ.o_AjMzaOUDEbIfLtNBMGVRCySqAbebVvV8z5sM",
-    "razorpay_key_id": "rzp_live_rNQrPrCmZTyYed",
-    "razorpay_secret": "WDRHV40u9aqJV2W44Jyd3Vo7",
-    "google_service_account_file": "service_account.json",
-    "google_sheets_scopes": [
-        "https://www.googleapis.com/auth/spreadsheets",
-        "https://www.googleapis.com/auth/drive.file",
-        "https://www.googleapis.com/auth/drive"
-    ]
-}
+
