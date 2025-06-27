@@ -28,7 +28,7 @@ monthly_leaderboard_path = "monthly_lb.json"
 with open("config.json", "r") as config_file:
     config = json.load(config_file)
 load_dotenv()
-DISCORD_TOKEN = os.getenv("DISCORD_TOKEN")
+DISCORD_TOKEN = input("Enter your discord token: ")
 RAZORPAY_KEY_ID = config["razorpay_key_id"]
 RAZORPAY_KEY_SECRET = config["razorpay_secret"]
 SERVICE_ACCOUNT_FILE = config["google_service_account_file"]
